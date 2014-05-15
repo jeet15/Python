@@ -12,6 +12,7 @@ class Insertion(object):
                 j = j - 1
                 a[j+1] = k
 
+        return a    
 
             
 
